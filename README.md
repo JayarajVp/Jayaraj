@@ -24,3 +24,7 @@ I am highly interested in *Cybersecurity* and constantly eager to learn more abo
 
 ## Projects
 
+| Name | Link |
+|------|------|
+| owasp juice shop | <a href="https://github.com/Joyman19/Owasp-Juice-Shop-Lab"> juice shop lab </a> |
+
