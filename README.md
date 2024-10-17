@@ -13,18 +13,29 @@ I am highly interested in *Cybersecurity* and constantly eager to learn more abo
 
 ## Skills
 
-| Skill         | Proficiency   |
-|---------------|---------------|
-| Python        | Intermediate  |
-| JavaScript    | Intermediate  |
-| HTML & CSS    | Intermediate  |
-| Cybersecurity | Beginner      |
-| Data analytics| Biginner      |
-| MongoDB       | Biginner      |
+| Skill |	Proficiency |
+|-------|---------------|
+Python	| Intermediate
+JavaScript |	Intermediate
+HTML & CSS |	Intermediate
+Cybersecurity |	Intermediate
+Data Analytics |	Beginner
+MongoDB	| Beginner
+Web Application	| Beginner
+Algorithms	| Intermediate
+Networking	| Beginner
+Problem Solving |	Beginner
 
 ## Projects
 
-| Name | Link |
-|------|------|
-| owasp juice shop | <a href="https://github.com/Joyman19/Owasp-Juice-Shop-Lab"> juice shop lab </a> |
+| Project Name |
+|---------------|
+OWASP Juice Shop (currently working)
+A Web Application for students to manage attendance, view event details conducted in college, and simplify attendance claiming digitally (currently working)
+KIOPTRIX: Level 1.1
 
+## Internship
+
+| Organization |	Position |
+|--------------|-------------|
+Internz Learn (Cybersecurity) |	Trainee
