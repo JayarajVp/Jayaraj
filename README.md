@@ -45,6 +45,11 @@ Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">(Link to t
 Shared Gallery (currently working)
 Event management application for college (currently working)
 
+## Courses
+| Courses name | Status | Certificate |
+|--------------|--------|-------------|
+Cybersecurity | completed | <a =href="">
+
 ## Internship
 
 | Organization |	Position |
