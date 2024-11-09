@@ -48,7 +48,7 @@ Event management application for college (currently working)
 ## Courses
 | Courses name | Status | Certificate |
 |--------------|--------|-------------|
-Cybersecurity | completed | <a =href="https://github.com/JayarajVp/Jayaraj/blob/main/certificate/JAYARAJ%20V%20%20(1).pdf"> Link </a>
+Cybersecurity | completed | <a href="https://github.com/JayarajVp/Jayaraj/blob/main/certificate/JAYARAJ%20V%20%20(1).pdf"> Link </a>
 
 ## Internship
 
