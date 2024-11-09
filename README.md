@@ -28,6 +28,7 @@ Cybersecurity |	Intermediate
 Data Analytics |	Beginner
 MongoDB	| Beginner
 GitHub | Beginner
+MS Office | Intermediate
 Design and analysis of algorithm | Intermediate
 Web Application	| Beginner
 Algorithms	| Intermediate
@@ -39,9 +40,8 @@ Problem Solving |	Beginner
 | Project Name |
 |---------------|
 OWASP Juice Shop (currently working)
-A Web Application for students to manage attendance, view event details conducted in college, and simplify attendance claiming digitally (currently working)
 KIOPTRIX: Level 1.1
-
+Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">(Link to the web application) </a> 
 ## Internship
 
 | Organization |	Position |
