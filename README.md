@@ -42,6 +42,9 @@ Problem Solving |	Beginner
 OWASP Juice Shop (currently working)
 KIOPTRIX: Level 1.1
 Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">(Link to the web application) </a> 
+Shared Gallery (currently working)
+Event management application for college (currently working)
+
 ## Internship
 
 | Organization |	Position |
