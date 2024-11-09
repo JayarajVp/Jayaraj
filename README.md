@@ -40,7 +40,7 @@ Problem Solving |	Beginner
 | Project Name |
 |---------------|
 OWASP Juice Shop (currently working)
-KIOPTRIX: Level 1.1
+KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOPTRIX.pdf"> (Link to report)</a>
 Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">(Link to the web application) </a> 
 Shared Gallery (currently working)
 Event management application for college (currently working)
