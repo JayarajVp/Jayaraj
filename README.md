@@ -15,12 +15,7 @@ I am highly interested in *Cybersecurity* and constantly eager to learn more abo
 
 | Skill |	Proficiency |
 |-------|---------------|
-Python	| Intermediate
-Java 
-C 
-C++ 
-JavaScript 
-HTML5 & CSS3 
+Python, Java, C, C++, JavaScript, HTML5 & CSS3 	| Intermediate
 SQL | Biginner
 Php | Beginner
 React.js | Beginner
