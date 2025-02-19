@@ -29,6 +29,11 @@ Web Application	| Beginner
 Algorithms	| Intermediate
 Networking	| Beginner
 Problem Solving |	Beginner
+Data analysis | Beginner
+Data mining | Beginner
+AI | Beginner
+ML | Beginner
+Django | Beginner
 
 ## Projects
 | Project Name |
