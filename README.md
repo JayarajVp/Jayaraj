@@ -39,7 +39,8 @@ Event and complaint managing application < Currently working >
 AI based secure browser < Currently working > 
 
 ## Research paper
-Analyzing Security Vulnerabilities in Mobile Browsers: Risks and Exploits 
+Analyzing Security Vulnerabilities in Mobile Browsers: Risks and Exploits.
+
 Abstract : With the increasing use of mobile devices, mobile browsers have become a major target for cyber threats such as phishing, MITM attacks, and tracking exploits. In this study, I examine vulnerabilities in popular mobile browsers through penetration testing and case studies. The results reveal significant security weaknesses, exposing users to potential cyber risks. To address these issues, I propose a security-enhancing solution that improves protection against emerging threats, ensuring safer browsing experiences.
 
 ## Courses
