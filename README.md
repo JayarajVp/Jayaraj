@@ -33,7 +33,6 @@ Problem Solving |	Beginner
 ## Projects
 
 | Project Name |
-|---------------|
 KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOPTRIX.pdf"> Link to report</a>
 Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">Link to the web application </a> 
 Event and complaint managing application < Currently working > 
