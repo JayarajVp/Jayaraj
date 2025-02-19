@@ -34,10 +34,10 @@ Problem Solving |	Beginner
 
 | Project Name |
 |---------------|
-KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOPTRIX.pdf"> (Link to report)</a>
-Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">(Link to the web application) </a> 
-Shared Gallery (currently working)
-Event management application for college (currently working)
+KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOPTRIX.pdf"> Link to report</a>
+Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">Link to the web application </a> 
+Event and complaint managing application < Currently working > 
+AI based secure browser < Currently working > 
 
 ## Courses
 | Courses name | Status | Certificate |
