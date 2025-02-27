@@ -41,7 +41,7 @@ Django | Beginner
 KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOPTRIX.pdf"> Link to report</a>
 Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">Link to the web application </a> 
 Event and complaint managing application < Currently working > 
-AI based secure browser < Currently working > 
+AI based secure browser < Currently working, synopsis -> <a href="https://github.com/JayarajVp/Jayaraj/blob/main/Projects/Project_Synopsis_Template.docx">link</a> > 
 
 ## Research paper
 Analyzing Security Vulnerabilities in Mobile Browsers: Risks and Exploits.
