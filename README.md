@@ -8,7 +8,7 @@ Hello! I'm Jayaraj.
 ## Objective
 I am highly interested in *Cybersecurity* and constantly eager to learn more about it. Additionally, passionate about *Web Development*, *Data Analytics*, and *Cloud Computing*, and excited to explore these fields further, also have a strong foundation in programming, with proficiency in *Python*, *C*, *C++*, and *Java*.
 
-<a href="https://github.com/JayarajVp/Jayaraj/blob/main/resume/Jayaraj_.pdf">Resume</a>
+<a href="https://github.com/JayarajVp/Resume-/blob/main/Jayaraj%20Patil.pdf">Resume</a>
 
 </a>
 
