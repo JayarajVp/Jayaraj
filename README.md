@@ -43,6 +43,7 @@ KIOPTRIX: Level 1.1 <a href="https://github.com/JayarajVp/Jayaraj/blob/main/KIOP
 Quiz web application <a href="https://jayarajvp.github.io/QUIZ_SDC_/">Link to the web application </a> 
 Event and complaint managing application < Currently working synopsis -> <a href="https://github.com/JayarajVp/Jayaraj/blob/main/Projects/SYNOPSIS-1.pdf">link</a> > 
 AI based secure browser < Currently working > 
+NewsApp <a href="https://github.com/JayarajVp/newsapp"> Link to files </a>
 
 ## Research paper
 Analyzing Security Vulnerabilities in Mobile Browsers: Risks and Exploits.
